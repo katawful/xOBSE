@@ -5,6 +5,7 @@
 #include <string>
 
 // requires recent platform sdk
+// this is stuff
 #ifndef ERROR_ELEVATION_REQUIRED
 #define ERROR_ELEVATION_REQUIRED 740
 #endif
